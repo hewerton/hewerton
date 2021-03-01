@@ -36,5 +36,5 @@
 - In progress - Ph.D. in Computer Science, Federal University of Paraná
 
 <p style="text-align: center">
-![](https://komarev.com/ghpvc/?username=hewerton&color=green)
+![Profile views](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 </p>
