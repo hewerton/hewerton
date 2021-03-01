@@ -35,6 +35,5 @@
 - 2014 M.Sc. in Computer Science, Federal University of Lavras
 - In progress - Ph.D. in Computer Science, Federal University of Paraná
 
-<p style="text-align: center">
+
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-username&color=green)
-</p>
