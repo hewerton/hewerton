@@ -35,5 +35,6 @@
 - 2014 M.Sc. in Computer Science, Federal University of Lavras
 - In progress - Ph.D. in Computer Science, Federal University of Paraná
 
-
-[![HitCount](http://hits.dwyl.com/hewerton/hewerton.svg)](http://hits.dwyl.com/hewerton/hewerton)
+<p style="text-align: center">
+![](https://komarev.com/ghpvc/?username=hewerton&color=green)
+</p>
