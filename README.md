@@ -1,23 +1,24 @@
 # Hello, I'm Hewerton!
-Full-stack Engineer based in Brazil!
 
+:computer: Full-stack Engineer based in Brazil!<br>
+:house: Santa Catarina State, Brazil :BR:
 # Find me on...
-[:camera: Instagram](https://www.instagram.com/hewerton.dev/)
 
+[:camera: Instagram](https://www.instagram.com/hewerton.dev/)<br>
 [:bird: Twitter](https://twitter.com/hewerton_dev)
 
 
 ## Work experience
 
 - Instructor, Federal Institute Catarinense  - March/2014  - present - Concórdia, Santa Catarina
- 
+
     The Federal Institute Catarinense is a vocational school located in the west of Santa Catarina state and is responsible for training professionals for food, agro-industries, and informatics markets.
 
     Taught algorithms with Java and Python, mobile development with Android.
 Coordinated the course "Informatics for the Internet" responsible for training professionals to work in the software development market.
 
 - Freelancer Software Engineer, Acordo Local - march/2017 - February/2018 - Remote
- 
+
     Located in Lavras, the company is responsible for building software for the royal estate market.
 
     Rebuilt and maintained software for publishing properties for sale or rent, using JavaScript, AngularJS, Firebase, Browserify, and Gulp. URL: http://nilsonimoveis.com/
