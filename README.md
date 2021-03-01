@@ -3,6 +3,7 @@ Full-stack Engineer based in Brazil!
 
 # Find me on...
 [:camera: Instagram](https://www.instagram.com/hewerton.dev/)
+[:bird: Twitter](https://twitter.com/hewerton_dev)
 
 
 ## Work experience
