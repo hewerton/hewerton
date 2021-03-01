@@ -34,3 +34,6 @@
 - 2012 B.Sc. in Computer Science, Federal University of Lavras
 - 2014 M.Sc. in Computer Science, Federal University of Lavras
 - In progress - Ph.D. in Computer Science, Federal University of Paraná
+
+
+[![HitCount](http://hits.dwyl.com/hewerton/hewerton.svg)](http://hits.dwyl.com/hewerton/hewerton)
